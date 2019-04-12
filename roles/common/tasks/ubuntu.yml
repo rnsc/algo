@@ -79,7 +79,7 @@
       - uuid-runtime
       - coreutils
       - sendmail
-      - iptables-persistent
+      # - iptables-persistent
       - cgroup-tools
       - openssl
     sysctl:
